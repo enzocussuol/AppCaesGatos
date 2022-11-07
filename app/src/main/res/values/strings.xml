@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppCaesGatos</string>
+    <string name="titulo">Frases de cães e gatos</string>
+    <string name="digiteNome">Digite seu nome</string>
+    <string name="guardar">Guardar</string>
+    <string name="ola">Olá [NOME]</string>
+    <string name="frase">[FRASE]</string>
+    <string name="gerar">Gerar outra frase</string>
 </resources>
