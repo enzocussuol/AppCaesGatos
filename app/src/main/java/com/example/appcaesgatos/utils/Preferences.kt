@@ -1,4 +1,4 @@
-package com.example.appcaesgatos
+package com.example.appcaesgatos.utils
 
 import android.content.Context
 import android.content.SharedPreferences
